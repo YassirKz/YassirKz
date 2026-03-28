@@ -56,15 +56,6 @@ I value clean code, practical problem-solving, and shipping products that work.
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassirkz&show_icons=true&hide_border=true&count_private=true&title_color=0e75b6&icon_color=0e75b6&text_color=333333" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirkz&layout=compact&hide_border=true&title_color=0e75b6&text_color=333333" height="160"/>
-</p>
-
----
-
 ## Currently
 
 - 🔨 Building **SmirisLearn** — SaaS training platform
