@@ -28,7 +28,6 @@ I value clean code, practical problem-solving, and shipping products that work.
 **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
@@ -52,9 +51,9 @@ I value clean code, practical problem-solving, and shipping products that work.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [SmirisLearn](https://github.com/yassirkz/SmirisLearn) | SaaS training platform for businesses | React · Supabase |
-| [Quiz Academy](https://github.com/Yassir-kezzi/QuizAcademy) | Dynamic quiz web app | PHP · MySQL |
-| [USD ↔ MAD Converter](https://github.com/Yassir-kezzi/USDMAD-Converter) | Real-time currency converter | HTML · CSS · JS |
-| [Portfolio](https://github.com/Yassir-kezzi/Portfolio_Yassir-kezzi) | Personal portfolio | React |
+| [Quiz Academy](https://github.com/yassirkz/QuizAcademy) | Dynamic quiz web app | PHP · MySQL |
+| [USD ↔ MAD Converter](https://github.com/yassirkz/USDMAD-Converter) | Real-time currency converter | HTML · CSS · JS |
+| [Portfolio](https://github.com/yassirkz/Portfolio_Yassir-kezzi) | Personal portfolio | React |
 
 ---
 
