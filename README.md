@@ -3,7 +3,7 @@
 **Full Stack Developer · Rabat, Morocco**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yassir-kezzi-530383283/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=flat-square&logo=google-chrome&logoColor=white)](https://comforting-meerkat-dcd02f.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-yassir-kezzi.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kezziyassir005@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=yassirkz&style=flat-square&color=0e75b6)](https://github.com/yassirkz)
 
