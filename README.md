@@ -52,7 +52,7 @@ I value clean code, practical problem-solving, and shipping products that work.
 |---------|-------------|-------|
 | [SmirisLearn](https://github.com/YassirKz/SmirisLearn) | SaaS training platform for businesses | React · Supabase |
 | [Quiz Academy](https://github.com/YassirKz/QuizAcademy) | Dynamic quiz web app | PHP · MySQL |
-| [USD ↔ MAD Converter](https://github.com/YassirKz/USDMAD-Converter) | Real-time currency converter | HTML · CSS · JS |
+| [USD ↔ MAD Converter](https://github.com/YassirKz/Converter) | Real-time currency converter | HTML · CSS · JS |
 | [Portfolio](https://github.com/YassirKz/Portfolio_Yassir-kezzi) | Personal portfolio | React |
 
 ---
